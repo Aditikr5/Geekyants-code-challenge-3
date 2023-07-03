@@ -54,7 +54,7 @@ class FileIOClass {
         try (BufferedWriter writeData = new BufferedWriter(new FileWriter(filename))) {
             writeData.write(content);
             System.out.println("Check the output in"+ filename);
-            System.out.println("Output.txt file:\n"+ content);
+            System.out.println(filename +"file:\n"+ content);
         }
     }
 }
