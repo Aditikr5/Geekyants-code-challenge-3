@@ -1,0 +1,10 @@
+name: Aditi
+mobile: 9999999999
+age: 25
+address.plotno: 23
+address.city: Bangalore
+address.state: Karnataka
+address.pincode: 560035
+bankaccount.accountno: 1111111111111111
+bankaccount.ifsc: ICIC00000
+bankaccount.bankname: ICICI

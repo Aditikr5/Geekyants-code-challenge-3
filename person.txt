@@ -1,0 +1,7 @@
+name: Aditi
+mobile: 9999999999
+age: 26
+address.plotno: 990
+address.city: Bangalore
+address.state: Karnataka
+address.pincode: 560035

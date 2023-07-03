@@ -1,0 +1,9 @@
+name: Ramakrishnan Subramaniam
+mobile: 9999999999
+age: 30
+address.plotno: 998
+address.city: Bangalore
+address.state: Karnataka
+address.pincode: 560035
+company.name: Elever
+company.address: Sarjapur
